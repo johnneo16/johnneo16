@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a Senior Software Engineer with 6+ years building enterprise software — currently on the **Symphonix product team at Q2 Software**. My day job lives deep in the Salesforce ecosystem (Apex, LWC, complex data architectures), but the work I care most about happens after hours: trading systems, AI agents, IoT deployments, and a consumer brand.
+I'm a Senior Software Engineer on the **Symphonix product team at Q2 Software**, where I&apos;ve spent the last several years building FinTech platforms used by banks and credit unions. My core craft is the Salesforce ecosystem — Apex, Lightning Web Components, complex data architectures — and the architectural decisions behind production software real customers depend on.
 
-I'm based in **Bangalore** — India's tech capital — but I deliberately operate outside the startup-pitch-circuit. The work I'm proudest of happens in focused, uninterrupted blocks: weekends, late nights, and the occasional sabbatical week.
+That work is the foundation. Outside of it, I extend my range into adjacent domains: trading systems, AI agents on the Model Context Protocol, IoT deployments on AWS, and a consumer beverage brand. These projects sharpen skills the day job doesn&apos;t exercise — and often feed back into how I think about enterprise architecture.
 
 ```yaml
 role:       Senior Software Engineer @ Q2 Software (Symphonix)
@@ -30,9 +30,9 @@ philosophy: Systems thinking. Leverage > effort. Ship > learn.
 
 ---
 
-## What I'm Building
+## Projects Beyond the Day Job
 
-> Side projects are how I think. Each one is real, in production or pre-launch.
+> These complement my work at Q2 — adjacent domains I explore to broaden my engineering range.
 
 ### 📈 [Swing Stockpicker](https://github.com/johnneo16/swing-stockpicker)
 Algo-assisted swing trade screener for NSE-listed stocks. Built on technical indicators (CPR, EMA pairs, RSI, volume divergence), live AngelOne broker integration, and a custom backtesting engine.
@@ -134,10 +134,9 @@ Caffeinated water brand for active India. Product formulation, 3D packaging in B
 ## Currently
 
 ```text
-🔨 Building     →  Swing Stockpicker — CPR scoring engine + live P&L
-🚀 Launching    →  Like Water — caffeinated beverage brand (Aug 2026)
+💼 Working      →  Senior Software Engineer · Q2 Software (Symphonix FinTech)
+🏗️  Building    →  Swing Stockpicker — CPR scoring engine + live P&L
 📚 Learning     →  Quantitative strategies, multi-agent orchestration
-🎯 Long game    →  Financial independence by 40 — diversified income stack
 📸 Off hours    →  Wildlife photography (Sony A7IV) — Tadoba, Panna, Sundarbans
 ```
 
@@ -148,9 +147,9 @@ Caffeinated water brand for active India. Product formulation, 3D packaging in B
 > *"I'm less interested in writing code and more interested in understanding leverage —*
 > *where a small, precise intervention creates disproportionate output."*
 
-The thread connecting everything I build is **systems thinking**. Trading strategies, software architecture, business models, IoT deployments — they're all the same problem shape: identify the constraint, design the intervention, measure the outcome.
+The thread connecting my work — both enterprise and personal — is **systems thinking**. Whether it's a Salesforce architecture serving thousands of banking customers, a trading strategy backtested over a decade of NSE data, or a sensor network monitoring water tanks, it's the same problem shape: identify the constraint, design the intervention, measure the outcome.
 
-I work fast, prototype constantly, and ship publicly. If you're building something interesting at the intersection of code, capital, or the physical world — let's talk.
+I prototype constantly and ship deliberately. If you're building something interesting at the intersection of code, capital, or the physical world — let&apos;s talk.
 
 ---
 
