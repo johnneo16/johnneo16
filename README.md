@@ -18,11 +18,11 @@
 
 I'm a Senior Software Engineer with 6+ years building enterprise software — currently on the **Symphonix product team at Q2 Software**. My day job lives deep in the Salesforce ecosystem (Apex, LWC, complex data architectures), but the work I care most about happens after hours: trading systems, AI agents, IoT deployments, and a consumer brand.
 
-I'm based in **Bankura, West Bengal** — a Tier-3 Indian city — running deliberate geographic arbitrage: top-tier tech salary, low burn rate, long runway for experimentation.
+I'm based in **Bangalore** — India's tech capital — but I deliberately operate outside the startup-pitch-circuit. The work I'm proudest of happens in focused, uninterrupted blocks: weekends, late nights, and the occasional sabbatical week.
 
 ```yaml
 role:       Senior Software Engineer @ Q2 Software (Symphonix)
-location:   Bankura, West Bengal, India
+location:   Bangalore, India
 experience: 6+ years
 focus:      FinTech · AI Systems · IoT · Product Building
 philosophy: Systems thinking. Leverage > effort. Ship > learn.
