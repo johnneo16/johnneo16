@@ -1,13 +1,3 @@
-<!--
-  HOW TO USE THIS FILE
-  ────────────────────
-  GitHub profile READMEs live in a special repository named exactly after your username.
-
-  1. Create a public repo called  johnneo16/johnneo16
-  2. Add this README.md to the repo root
-  3. GitHub will auto-render it on your profile page (github.com/johnneo16)
--->
-
 <div align="center">
 
 # Arindam Chowdhury
