@@ -2,9 +2,9 @@
 
 # Arindam Chowdhury
 
-### Senior Software Engineer · Builder · Entrepreneur
+### Senior Software Engineer
 
-*Building at the intersection of FinTech, AI, and the physical world.*
+*Enterprise FinTech by day. Curious generalist after hours.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arindamchowdhury.dev-f59e0b?style=for-the-badge&logo=vercel&logoColor=white)](https://arindamchowdhury.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arindam-chowdhury16)
@@ -16,47 +16,47 @@
 
 ## About
 
-I'm a Senior Software Engineer on the **Symphonix product team at Q2 Software**, where I&apos;ve spent the last several years building FinTech platforms used by banks and credit unions. My core craft is the Salesforce ecosystem — Apex, Lightning Web Components, complex data architectures — and the architectural decisions behind production software real customers depend on.
+I'm a Senior Software Engineer on the **Symphonix product team at Q2 Software**, where I&apos;ve spent the last several years building FinTech platforms used by banks and credit unions. My core craft is the Salesforce ecosystem — Apex, Lightning Web Components, complex data architectures — and the architectural decisions behind production software customers depend on.
 
-That work is the foundation. Outside of it, I extend my range into adjacent domains: trading systems, AI agents on the Model Context Protocol, IoT deployments on AWS, and a consumer beverage brand. These projects sharpen skills the day job doesn&apos;t exercise — and often feed back into how I think about enterprise architecture.
+Outside of work I&apos;m a curious generalist. I take on small learning projects in adjacent domains — analysing market data, exploring multi-agent LLM tooling, prototyping IoT pipelines on AWS, the occasional design exercise. They keep my skills broad and remind me what it&apos;s like to start from zero.
 
 ```yaml
 role:       Senior Software Engineer @ Q2 Software (Symphonix)
 location:   Bangalore, India
 experience: 6+ years
-focus:      FinTech · AI Systems · IoT · Product Building
-philosophy: Systems thinking. Leverage > effort. Ship > learn.
+core:       Salesforce ecosystem · FinTech platforms · System architecture
+interests:  AI / LLMs · Markets · IoT · Engineering craft
 ```
 
 ---
 
-## Projects Beyond the Day Job
+## Personal Learning Projects
 
-> These complement my work at Q2 — adjacent domains I explore to broaden my engineering range.
+> Small, self-directed projects I work on outside my day job to stay broad and curious.
 
 ### 📈 [Swing Stockpicker](https://github.com/johnneo16/swing-stockpicker)
-Algo-assisted swing trade screener for NSE-listed stocks. Built on technical indicators (CPR, EMA pairs, RSI, volume divergence), live AngelOne broker integration, and a custom backtesting engine.
-`Node.js` · `Express` · `React` · `SQLite` · `AngelOne API` · `NSE`
+A learning project for evaluating technical indicators on NSE data — CPR, EMA pairs, RSI, volume divergence — paired with a custom backtest engine. The exercise: build a transparent end-to-end data + analytics pipeline instead of relying on black-box libraries.
+`Node.js` · `Express` · `React` · `SQLite` · `NSE Data`
 
 ### 🏦 [IntelliLend](https://github.com/johnneo16/intellilend)
-AI-powered end-to-end lending lifecycle platform. Full origination → multi-agent AI underwriting (FOIR-based) → loan management → collections → analytics pipeline with lifecycle-aware UI themes.
-`Next.js` · `NestJS` · `Turborepo` · `Supabase` · `Prisma` · `Multi-Agent AI`
+An architecture and design study for a lending lifecycle platform. The interesting bits: monorepo architecture (Next.js + NestJS via Turborepo), Supabase with RLS, and lifecycle-aware UI theming. Built to deepen my multi-app architectural skills.
+`Next.js` · `NestJS` · `Turborepo` · `Supabase` · `Prisma`
 
 ### 🤝 [Open Multi-Agent](https://github.com/johnneo16/open-multi-agent)
-A minimal TypeScript multi-agent framework. One `runTeam()` call turns a goal into a result via automatic task decomposition and parallel execution. Three dependencies, deploys anywhere Node.js runs.
+A small open-source TypeScript framework exploring multi-agent orchestration: one `runTeam()` call decomposes a goal into tasks and runs them in parallel. Three dependencies, no SDK bloat. An experiment in distilling agentic behaviour to its essentials.
 `TypeScript` · `Multi-Agent` · `LLM Orchestration` · `Open Source`
 
 ### 🤖 JARVIS *(coming soon)*
-Personal AI assistant built on the **Model Context Protocol**. Modular MCP servers expose filesystem, terminal, and memory capabilities — giving an LLM real agency over a local machine.
-`Python` · `FastAPI` · `MCP SDK` · `Claude API` · `React`
+Personal AI assistant exploration built on the **Model Context Protocol**. Modular MCP servers expose filesystem, terminal, and memory capabilities — a study in how LLMs can be safely connected to local systems through structured tool interfaces.
+`Python` · `FastAPI` · `MCP SDK` · `Claude API`
 
 ### 💧 [AquaTrack](https://github.com/johnneo16/aquatrack-v2)
-Real-time water distribution network monitoring dashboard. Started as an IoT deployment for a housing society (ultrasonic sensors → AWS IoT Core → Lambda → SMS alerts), rebuilt portfolio-grade with a WebSocket dashboard and D3 / ECharts visualisations.
-`Node.js` · `WebSocket` · `D3` · `ECharts` · `AWS IoT` · `Lambda`
+Real-time water distribution monitoring dashboard. Originally an IoT deployment for a housing society (ultrasonic sensors → AWS IoT Core → Lambda → SMS alerts), rebuilt portfolio-grade with a WebSocket dashboard and D3 / ECharts visualisations.
+`Node.js` · `WebSocket` · `D3` · `ECharts` · `AWS IoT`
 
-### ✨ [Like Water](https://likewater.in)
-Caffeinated water brand for active India. Product formulation, 3D packaging in Blender, and a full **₹0-stack** marketing automation pipeline (n8n + Gemini + Cloudflare). Launching August 2026.
-`Brand` · `n8n` · `Blender 3D` · `Cloudflare Workers` · `Gemini API`
+### 🎨 Like Water *(design exercise)*
+A creative exercise — branding, 3D packaging in Blender, and a marketing automation pipeline built on n8n + Gemini + Cloudflare. The technical fun was the automation architecture: a fully free-tier stack handling planning, publishing, and engagement classification end-to-end.
+`Blender 3D` · `n8n` · `Cloudflare Workers` · `Gemini API`
 
 ---
 
@@ -135,8 +135,8 @@ Caffeinated water brand for active India. Product formulation, 3D packaging in B
 
 ```text
 💼 Working      →  Senior Software Engineer · Q2 Software (Symphonix FinTech)
-🏗️  Building    →  Swing Stockpicker — CPR scoring engine + live P&L
-📚 Learning     →  Quantitative strategies, multi-agent orchestration
+🧪 Exploring    →  Technical analysis indicators, multi-agent LLM patterns
+📚 Reading      →  Software architecture, systems design, market microstructure
 📸 Off hours    →  Wildlife photography (Sony A7IV) — Tadoba, Panna, Sundarbans
 ```
 
@@ -147,9 +147,9 @@ Caffeinated water brand for active India. Product formulation, 3D packaging in B
 > *"I'm less interested in writing code and more interested in understanding leverage —*
 > *where a small, precise intervention creates disproportionate output."*
 
-The thread connecting my work — both enterprise and personal — is **systems thinking**. Whether it's a Salesforce architecture serving thousands of banking customers, a trading strategy backtested over a decade of NSE data, or a sensor network monitoring water tanks, it's the same problem shape: identify the constraint, design the intervention, measure the outcome.
+The thread connecting my work — both at Q2 and on personal projects — is **systems thinking**. Whether it's a Salesforce architecture serving banking customers or a small sensor pipeline on AWS, it's the same problem shape: identify the constraint, design the intervention, measure the outcome.
 
-I prototype constantly and ship deliberately. If you're building something interesting at the intersection of code, capital, or the physical world — let&apos;s talk.
+Happy to discuss engineering, FinTech, or interesting technical problems — drop me a line.
 
 ---
 
@@ -161,6 +161,6 @@ I prototype constantly and ship deliberately. If you're building something inter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arindam--chowdhury16-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/arindam-chowdhury16)
 [![Email](https://img.shields.io/badge/Email-arinchowdhury16@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:arinchowdhury16@gmail.com)
 
-<sub><i>Profile views are not a metric — shipped projects are. 🛠️</i></sub>
+<sub><i>Engineering is craft. Always learning.</i></sub>
 
 </div>
