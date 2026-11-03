@@ -34,7 +34,7 @@ interests:  AI / LLMs · Markets · IoT · Engineering craft
 
 > Small, self-directed projects I work on outside my day job to stay broad and curious.
 
-### 📈 [Swing Stockpicker](https://github.com/johnneo16/swing-stockpicker)
+### 📈 Swing Stockpicker
 A learning project for evaluating technical indicators on NSE data — CPR, EMA pairs, RSI, volume divergence — paired with a custom backtest engine. The exercise: build a transparent end-to-end data + analytics pipeline instead of relying on black-box libraries.
 `Node.js` · `Express` · `React` · `SQLite` · `NSE Data`
 
@@ -54,7 +54,7 @@ Personal AI assistant exploration built on the **Model Context Protocol**. Modul
 Real-time water distribution monitoring dashboard. Originally an IoT deployment for a housing society (ultrasonic sensors → AWS IoT Core → Lambda → SMS alerts), rebuilt portfolio-grade with a WebSocket dashboard and D3 / ECharts visualisations.
 `Node.js` · `WebSocket` · `D3` · `ECharts` · `AWS IoT`
 
-### 🎨 Like Water *(design exercise)*
+### 🎨 Like Water *(branding and automation)*
 A creative exercise — branding, 3D packaging in Blender, and a marketing automation pipeline built on n8n + Gemini + Cloudflare. The technical fun was the automation architecture: a fully free-tier stack handling planning, publishing, and engagement classification end-to-end.
 `Blender 3D` · `n8n` · `Cloudflare Workers` · `Gemini API`
 
@@ -118,16 +118,15 @@ A creative exercise — branding, 3D packaging in Blender, and a marketing autom
 
 ---
 
-## GitHub Stats
+## Recent Work
 
-<div align="center">
+> Most of my recent work lives in private repositories (client and family businesses, plus products in progress), so the contribution graph above understates it.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=johnneo16&show_icons=true&theme=transparent&bg_color=0a0a0a&title_color=f59e0b&text_color=a3a3a3&icon_color=f59e0b&border_color=262626&hide_border=false&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnneo16&layout=compact&theme=transparent&bg_color=0a0a0a&title_color=f59e0b&text_color=a3a3a3&border_color=262626&hide_border=false&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=johnneo16&theme=dark&background=0a0a0a&border=262626&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=a3a3a3&dates=525252&currStreakNum=f5f5f5&sideNums=f5f5f5" />
-
-</div>
+- **Lakshya** — a launch studio for Indian consumer brands: registrations, brand, website and marketplace launch, with AI doing the busywork. *(in progress)*
+- **Zico Sports** — e-commerce storefront with an admin panel for a sports retailer. [Source](https://github.com/johnneo16/zico-sports)
+- **Chowdhury Electricals** — taking a 50-year-old family electricals business online. *(in progress)*
+- **H Holdings** — multi-sector corporate website, wireframes to launch. [hholdings.in](https://hholdings.in)
+- **Like Water** — idea-to-shelf launch of a consumer beverage brand: registrations, vendor vetting, label compliance, website.
 
 ---
 
@@ -135,8 +134,8 @@ A creative exercise — branding, 3D packaging in Blender, and a marketing autom
 
 ```text
 💼 Working      →  Senior Software Engineer · Q2 Software (Symphonix FinTech)
-🧪 Exploring    →  Technical analysis indicators, multi-agent LLM patterns
-📚 Reading      →  Software architecture, systems design, market microstructure
+🚀 Building     →  Lakshya, a launch studio for Indian consumer brands
+🧪 Exploring    →  Multi-agent LLM patterns, AI tooling for small businesses
 📸 Off hours    →  Wildlife photography (Sony A7IV) — Tadoba, Panna, Sundarbans
 ```
 
